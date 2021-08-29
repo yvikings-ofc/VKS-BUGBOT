@@ -1,5 +1,5 @@
 # **[VKS-BUGBOT](https://github.com/yvikings-ofc/VKS-BUGBOT)**
-**Whatsapp crashing bug not by Vikings Offical:)**
+**Whatsapp crashing bug bot by Vikings Offical:)**
 # Motivo
 O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixando assim, publicas, para que os desenvolvedores resolvam, pois já tentei reportar elas e eles não deram a mínima. 
 
@@ -14,7 +14,7 @@ O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixan
 termux-setup-storage
 ```
 ```sh 
-pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
+pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/yvikings-ofc/VKS-BUGBOT && cd VKS-BUGBOT && bash install.sh
 ```
 # TO START BOT
 ```sh
@@ -31,4 +31,4 @@ ou
 
 > Owner of Bot - [Pub kalan](https://youtube.com/channel/UCkvVFnyHGXDRyYm_PcOotZQ)
 
-> 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈)
+> 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈
