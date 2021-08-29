@@ -9,18 +9,18 @@ O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixan
 - Um celular (ou emulador) com conexão com internet
 - Termux (ou qualquer outro terminal alternativo)
 
-# Instale o BOT
+# TO INSATLL BOT
 ```sh 
 termux-setup-storage
 ```
 ```sh 
 pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-lts && git clone https://github.com/davizinmaker/tdmclient/ && cd tdmclient && bash install.sh
 ```
-# Para iniciar
+# TO START BOT
 ```sh
 > npm start
 ```
-# Para ver os demais comandos use
+# COMMANDS TO WORK
 ```sh
 > .help
 ou
