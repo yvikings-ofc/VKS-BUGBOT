@@ -26,7 +26,7 @@ pkg install git && pkg install wget && pkg install ffmpeg && pkg install nodejs-
 ou
 > .menu
 ```
-## Criadores
+## Creators
 > Creator of Bot - [PRIEST](https://github.com/Surya-Dev-A)
 
 > Owner of Bot - [Pub kalan](https://github.com/DRKMOD)
