@@ -29,6 +29,6 @@ ou
 ## Creators
 > Creator of Bot - [PRIEST](https://github.com/Surya-Dev-A)
 
-> Owner of Bot - [Pub kalan](https://github.com/DRKMOD)
+> Owner of Bot - [Pub kalan](https://youtube.com/channel/UCkvVFnyHGXDRyYm_PcOotZQ)
 
 > 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈)
