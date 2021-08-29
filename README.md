@@ -1,4 +1,4 @@
-# **[VKS-BUGBOT](https://github.com/davizinmaker/tdmclient/#)**
+# **[VKS-BUGBOT](https://github.com/yvikings-ofc/VKS-BUGBOT)**
 **Whatsapp crashing bug not by Vikings Offical:)**
 # Motivo
 O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixando assim, publicas, para que os desenvolvedores resolvam, pois já tentei reportar elas e eles não deram a mínima. 
@@ -27,8 +27,8 @@ ou
 > .menu
 ```
 ## Criadores
-> Criador do BOT - [davizinmaker](https://abre.ai/davizinmakerk/)
+> Creator of Bot - [PRIEST](https://github.com/Surya-Dev-A)
 
-> Criador da API - [Baileys](https://github.com/adiwajshing/Baileys/)
+> Owner of Bot - [Pub kalan](https://github.com/DRKMOD)
 
-> Criador da Base do BOT - [MhankBarBar](https://github.com/MhankBarBar/termux-wabot/)
+> 🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈🎈)
