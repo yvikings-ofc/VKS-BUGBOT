@@ -1,5 +1,5 @@
-# **[TdM ⿻ Client 〽️](https://github.com/davizinmaker/tdmclient/#)**
-**O primeiro e unico (até agorakjkkk) Crash Client para WhatsApp :)**
+# **[VKS-BUGBOT](https://github.com/davizinmaker/tdmclient/#)**
+**Whatsapp crashing bug not by Vikings Offical:)**
 # Motivo
 O objetivo desse projeto é poder explorar falhas existentes no WhatsApp, deixando assim, publicas, para que os desenvolvedores resolvam, pois já tentei reportar elas e eles não deram a mínima. 
 
